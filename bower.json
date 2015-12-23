@@ -1,0 +1,26 @@
+{
+    "name": "sassy",
+    "version": "0.0.0",
+    "authors": [
+        "Nigel Rantor <wiggly@wiggly.org>"
+    ],
+    "description": "Wiggly's Sassy Test",
+    "main": "src/sass/sassy.scss",
+    "moduleType": [],
+    "keywords": [
+        "wiggly",
+        "sass"
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "bootstrap-sass": "~3.3.5"
+    }
+}
